@@ -14,7 +14,8 @@
   },
   "keywords": [
     "otp-inputs",
-    "react-native"
+    "react-native",
+    "otp"
   ],
   "author": "Okeypraise Junior",
   "license": "MIT",
